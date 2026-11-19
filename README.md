@@ -1,2 +1,2 @@
 # DA_App
-First test project for deployment
+Test project for deployment
